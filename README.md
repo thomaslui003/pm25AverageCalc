@@ -19,8 +19,8 @@ all the stations map bound by two pairs of latitudes and longitudes.
 3. The application can be compiled and run using VScode or other IDEs
 4. Execute the following structured statement in terminal to run the program python3 pm25calAverage.py <latitude_1> <longitude_1> <latitude_2> <longitude_2> <samplingPeriod> <samplingRate> <br />
     * Sample: ```python3 pm25calAverage.py 49.292545628912194 -123.31372270597726 49.188150682588535 -122.78044889229854 5 1```
-      * Sample data latitude_1,longitude_1 --> upper left ubc random spot 1 (lat/long): 49.292545628912194,-123.31372270597726
-      * Sample data latitude_2,longitude_2 --> random spot 2 in north side of Surrey (lat/long): 49.188150682588535,-122.78044889229854
+      * Sample data latitude_1,longitude_1 --> upper left ubc random coordinate 1 (lat/long): 49.292545628912194,-123.31372270597726
+      * Sample data latitude_2,longitude_2 --> random coordinate 2 in north side of Surrey (lat/long): 49.188150682588535,-122.78044889229854
       * Sample data --> samplingPeriod = 5 (definite 5)
       * Sample data --> samplingRate = 1 (definite 1 )
   
